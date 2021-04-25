@@ -1,45 +1,27 @@
-[CENTER][IMG]图片?raw=true[/IMG]
-[SIZE="5"] [B][color="#f5b500"]#[color="#e34036"]exTHm UI 11[/COLOR] [/SIZE][/B]
+[CENTER][IMG]https://github.com/exthmui/XDA/blob/master/img/exthmui.png?raw=true[/IMG]
+[SIZE="5"] [B][color="#db4437"]exTHm UI 11[/COLOR] [/SIZE][/B]
 
-[IMG]免责?raw=true[/IMG]
+[IMG]https://github.com/exthmui/XDA/blob/master/img/disclaimer.png?raw=true[/IMG]
+
 [CODE]
  * Your warranty is now void.
  * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
  * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
- [/CODE]
+[/CODE]
 
-[IMG]关于?raw=true[/IMG]
-[SIZE=4]exTHmUI is a new touhou themed ROM based on lineage and other distros. By flashing this ROM, We can bring you tons of new features! We provide frequent builds, a nice community, and nice maintainers. Feel free to join the world of exTHmUI![/SIZE]
+[IMG]https://github.com/exthmui/XDA/blob/master/img/about.png?raw=true[/IMG]
 
-[IMG]刷入图?raw=true[/IMG]
-[SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
-[SIZE="4"]Download the latest build and GApps
-Reboot to recovery 
-Make nandroid backup (Not Necessary)
-Wipe System, Data, Cache, Dalvik
-Flash the latest build and GApps
-Reboot[/SIZE]
+[CODE]
+exTHmUI is a new touhou themed ROM based on lineage and other distros. By flashing this ROM, We can bring you tons of new features! We provide frequent builds, a nice community, and nice maintainers. Feel free to join the world of exTHmUI!
+[/CODE]
 
-[SIZE="4"][B]DIRTY FLASH :[/B][/SIZE]
-[SIZE="4"]Download the latest build 
-Reboot to recovery
-Flash the latest build
-Wipe Cache
-Reboot[/SIZE]
-
-Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
-
-[IMG]基于创建?raw=true[/IMG]
-[FONT="Comic Sans MS"]LineageOS[/FONT] 
-[FONT="Comic Sans MS"]AOSP[/FONT]
-[FONT="Comic Sans MS"]CrDroid Android[/FONT] 
-And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
-
-
-[IMG]团队?raw=true[/IMG]
-[SIZE=5]Special Thanks:
-[USER=9341104]@cjybyjk[/USER],
-[USER=403934]@Color[/USER]-youself,
+[SIZE="4"][B]Credits: [/B][/SIZE]
+[HIDE]
+LineageOS
+AOSP
+CrDroid Android
+@cjybyjk
+@Col_or
 @KevinZonda,
 @kmou424,
 @GoogleChinaCEO,
@@ -49,44 +31,69 @@ And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 @ReallySnow,
 @Xiaoxindada,
 @YukiKeiko,
-and all the other contributers![/SIZE]
+and all the other contributers!
+[/HIDE]
 
-[IMG]特性?raw=true[/IMG]
-[LIST]
-[*]Status bar settings,
-[*]Customized button settings,
-[*]A brand new theme engine(only for exthmui themes) preinstalled,
-[*]A Yellow Page function
-[*]Gaming mode,
-[*]Other Customization settings
-[*]Improved battery performance
-[*]Improved System performance
-[*]A better installation screen
-[*][LEFT]and much more....[/LEFT]
-[/LIST]
 
-[IMG]更新日志?raw=true[/IMG]
-自己爬去写
+[IMG]https://github.com/exthmui/XDA/blob/master/img/instructions.png?raw=true[/IMG]
 
-[IMG]Bugs?raw=true[/IMG]
+[B]CLEAN FLASH :[/B]
+Download the latest build and GApps
+Reboot to recovery 
+Make nandroid backup (Not Necessary)
+Wipe System, Data, Cache, Dalvik
+Flash the latest build and GApps
+Reboot
+
+[B]DIRTY FLASH :[/B]
+Download the latest build 
+Reboot to recovery
+Flash the latest build
+Wipe Cache
+Reboot
+
+Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
+
+[IMG]https://github.com/exthmui/XDA/blob/master/img/feauters.png?raw=true[/IMG]
+
+[CODE]
+* Status bar settings,
+* Customized button settings,
+* A brand new theme engine(only for exthmui themes) preinstalled,
+* A Yellow Page function
+* Gaming mode,
+* Other Customization settings
+* Improved battery performance
+* Improved System performance
+* A better installation screen
+* and much more....
+[/CODE]
+
+[IMG]https://github.com/exthmui/XDA/blob/master/img/changelog.png?raw=true[/IMG]
+
+[SIZE="5"][B]Changelog: [/B][/SIZE]
+working of all
+
+[SIZE="5"][B]Bugs: [/B][/SIZE]
 You tell me.
 
-[IMG]捐赠?raw=true[/IMG]
+[IMG]https://github.com/exthmui/XDA/blob/master/img/download.png?raw=true[/IMG]
+
+[COLOR=#db4437][URL=''][SIZE=3][B]exTHmUI Download Website[/B][/SIZE][/URL][/COLOR]
+
 [/CENTER]
 
 [B]ROM OS Version:[/B] 11.x Android R
-[B]Device Source:[/B] 设备树开源地址
-[B]Kernel Source:[/B] 内核开源地址（如果有源码）
-[B]ROM Firmware Required:[/B] 底层要求
+[B]Device Source:[/B] Device source website
+[B]Kernel Source:[/B] Kernel source website
+[B]ROM Firmware Required:[/B] 
 [B]ROM Source:[/B] https://github.com/exthmui
 [B]Based On:[/B] LineageOS
 
 [B][U]Version Information[/U][/B]
-[B]Kernel Version:[/B] 写你自己内核版本
+[B]Kernel Version:[/B] 
 [B]Status:[/B] Stable、Snapshot、Beta or Alpha
 [B]Current Stable Version:[/B] exthm-11
-[B]First Release Create Date:[/B] 自己写第一次创建日期
-[B]Last Release Create Date:[/B] 自己写最后一次创建日期
-[B]Thanks:[/B] 如果有，写。没有，删
-
-
+[B]First Release Create Date:[/B] 
+[B]Last Release Create Date:[/B] 
+[B]Thanks:[/B] 
